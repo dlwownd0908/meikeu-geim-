@@ -1,0 +1,4 @@
+﻿  백준.cpp
+C:\Users\유재림\source\repos\검_강화하기\검_강화하기\백준.cpp(24,23): warning C4244: '*=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\유재림\source\repos\검_강화하기\검_강화하기\백준.cpp(30,23): warning C4244: '/=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  검_강화하기.vcxproj -> C:\Users\유재림\source\repos\검_강화하기\x64\Debug\검_강화하기.exe
